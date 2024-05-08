@@ -1,1 +1,1 @@
-# Nato-alphabet
+# Nato-alphabetic codes for Names
